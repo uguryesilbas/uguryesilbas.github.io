@@ -87,3 +87,4 @@ footer {
   font-size: 14px;
 }
 footer a { margin-right: 14px; display: inline-block; }
+.lang-switch { margin-left: auto; font-size: 14px; }
